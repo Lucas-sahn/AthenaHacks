@@ -48,8 +48,6 @@
 
 * Call For Code - https://developer.ibm.com/callforcode/
 * Code and Response - https://developer.ibm.com/code-and-response/
-* IBM Careers - https://www-03.ibm.com/employment/us/entry_level_campus.shtml
-* Visual Recognition Demo - https://github.com/IBM/drones-iot-visual-recognition
-* Operations Risk Insights Demo - https://ibm.box.com/s/4dfbar7108ykci3mgs1wytwsrgdqdzye 
+* 
 
 ## Social Media Info (coming soon)

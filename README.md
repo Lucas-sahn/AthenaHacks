@@ -47,6 +47,5 @@
 
 * Call For Code - https://developer.ibm.com/callforcode/
 * Code and Response - https://developer.ibm.com/code-and-response/
-* 
 
 ## Social Media Info (coming soon)

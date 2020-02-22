@@ -12,15 +12,12 @@
 * http://ibm.biz/pearlhacks
 
 # Step 3 - Compete in our Main Challenge
-* The Code and Response Codeathon calls on students to create practical, effective, and high-quality designs and applications based on cloud, data, and artificial intelligence, that can have an immediate and lasting impact on humanitarian issues. We challenge you to develop a solution that will support Natural Disaster Response and/or Mitigation. Additional details of the Code and Response Challenges are available at the following https://developer.ibm.com/code-and-response/
+* The Code and Response Challenge calls on students to create practical, effective, and high-quality designs and applications based on cloud, data, and artificial intelligence, that can have an immediate and lasting impact on humanitarian issues. We challenge you to develop a solution that will support Natural Disaster Response and/or Mitigation. Additional details of the Code and Response Challenges are available at the following https://developer.ibm.com/code-and-response/
 
 # Main Challenge Prizes
-*	1st Place - $1000 + swag bag + special prize*
-*	2nd Place - $500 + swag bag
-*	3rd Place - $250 + swag bag
-*	Random drawing for 4 Tello Drones
-
-*One person from the team gets a golden ticket to CGI University in Edinburgh, Scotland with hotel and airfare covered – April 2020 
+*	1st Place - $500
+*	2nd Place - $300
+*	Swag at the booth!
 
 # Rules
 * Submissions must use one or more IBM Cloud services or IBM Systems. Use of sponsor or affiliate APIs and open source libraries is also encouraged.
@@ -51,7 +48,6 @@
 
 * Call For Code - https://developer.ibm.com/callforcode/
 * Code and Response - https://developer.ibm.com/code-and-response/
-* CGIU Initiative - https://www.clintonfoundation.org/clinton-global-initiative/meetings/cgi-university
 * IBM Careers - https://www-03.ibm.com/employment/us/entry_level_campus.shtml
 * Visual Recognition Demo - https://github.com/IBM/drones-iot-visual-recognition
 * Operations Risk Insights Demo - https://ibm.box.com/s/4dfbar7108ykci3mgs1wytwsrgdqdzye 

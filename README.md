@@ -1,4 +1,4 @@
-# HackRPI
+# Pearl Hacks
 <p align="center">
   <img width="280" src="https://raw.githubusercontent.com/IBM/hackrpi/master/images/ibm-logo.png">
 </p> 

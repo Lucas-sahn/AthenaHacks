@@ -1,6 +1,6 @@
 # HackRPI
 <p align="center">
-  <img width="280" src="https://raw.githubusercontent.com/IBM/hackrpi/master/images/ibm-logo.png"><img width="230" src="https://github.com/Lucas-sahn/pearlhacks/blob/master/images/pearlhacks.jpg">
+  <img width="280" src="https://raw.githubusercontent.com/IBM/hackrpi/master/images/ibm-logo.png">
 </p> 
 
 <p align="center">

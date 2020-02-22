@@ -2,6 +2,7 @@
 
 <p align="center">
   <img width="280" src="https://raw.githubusercontent.com/IBM/hackrpi/master/images/ibm-logo.png">
+</p> <img width="230" src="https://github.com/Lucas-sahn/pearlhacks/blob/master/images/pearlhacks.jpg">
 </p>
 
 <p align="center">

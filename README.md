@@ -1,7 +1,7 @@
 # HackRPI
 
 <p align="center">
-  <img width="280" src="https://raw.githubusercontent.com/IBM/hackrpi/master/images/ibm-logo.png"> <img width="350" src="http://www.mdc.edu/main/images/CGIU_logo_horizontal_460x200_tcm6-105188.jpg"> 
+  <img width="280" src="https://raw.githubusercontent.com/IBM/hackrpi/master/images/ibm-logo.png">
 </p>
 
 <p align="center">
@@ -9,10 +9,7 @@
 </p>
 
 # Step 1 - Register for an IBM Cloud Account
-* https://ibm.biz/BdzKu8
-
-# Step 2 - Join our Slack channel
-* https://tinyurl.com/y64ar9ch - #ibm-cgiu-challenge
+* http://ibm.biz/pearlhacks
 
 # Step 3 - Compete in our Main Challenge
 * The Code and Response Codeathon calls on students to create practical, effective, and high-quality designs and applications based on cloud, data, and artificial intelligence, that can have an immediate and lasting impact on humanitarian issues. We challenge you to develop a solution that will support Natural Disaster Response and/or Mitigation. Additional details of the Code and Response Challenges are available at the following https://developer.ibm.com/code-and-response/

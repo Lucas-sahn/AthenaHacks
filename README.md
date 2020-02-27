@@ -1,10 +1,10 @@
-# Pearl Hacks
+# Athena Hacks
 <p align="center">
   <img width="280" src="https://raw.githubusercontent.com/IBM/hackrpi/master/images/ibm-logo.png">
 </p> 
 
 <p align="center">
-  <img width="230" src="https://github.com/Lucas-sahn/pearlhacks/blob/master/images/pearlhacks.jpg">
+  <img width="230" src="https://github.com/Lucas-sahn/AthenaHacks/blob/master/images/owl_2020_moon.png">
 </p>
 
 # Step 1 - Register for an IBM Cloud Account

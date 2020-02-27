@@ -8,7 +8,7 @@
 </p>
 
 # Step 1 - Register for an IBM Cloud Account
-* http://ibm.biz/pearlhacks
+* http://ibm.biz/AthenaHacks
 
 # Step 2 - Compete in our Main Challenge
 * The Code and Response Challenge calls on students to create practical, effective, and high-quality designs and applications based on cloud, data, and artificial intelligence, that can have an immediate and lasting impact on humanitarian issues. We challenge you to develop a solution that will support Natural Disaster Response and/or Mitigation. Additional details of the Code and Response Challenges are available at the following https://developer.ibm.com/code-and-response/
